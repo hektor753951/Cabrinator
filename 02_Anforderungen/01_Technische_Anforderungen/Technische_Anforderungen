@@ -1,0 +1,43 @@
+## Technische Anforderungen
+
+### 1. **Backend-Entwicklung**
+- **Programmiersprache**: Python
+  - Verwendung von Python für die Backend-Logik, um eine einfache und effiziente Entwicklung zu ermöglichen.
+  
+- **Web-Framework**: Flask oder FastAPI
+  - Auswahl eines geeigneten Frameworks (Flask oder FastAPI) für die Erstellung der Web-App, um RESTful APIs zu ermöglichen und die Entwicklung zu beschleunigen.
+
+- **Datenbank**: SQLite
+  - Implementierung einer SQLite-Datenbank zur Speicherung von Entscheidungsbaum-Daten und Log-Einträgen.
+
+### 2. **Frontend-Entwicklung**
+- **Technologien**: HTML, CSS, JavaScript
+  - Verwendung dieser Technologien zur Erstellung einer responsiven und benutzerfreundlichen Web-Oberfläche.
+
+- **Frameworks/Bibliotheken**: Optional
+  - Möglichkeit zur Integration von Frontend-Bibliotheken wie Bootstrap oder jQuery zur Verbesserung der Benutzeroberfläche.
+
+### 3. **Datenstruktur**
+- **Datenbankstruktur**: 
+  - Entwurf der Tabellen für den Entscheidungsbaum (Fragen, Antworten, Troubleshooting-Schritte) und Logs (Interaktionen, Feedback).
+
+### 4. **Sicherheit**
+- **Authentifizierung**: 
+  - Implementierung grundlegender Sicherheitsmaßnahmen, um unbefugten Zugriff auf die Anwendung zu verhindern.
+
+- **Datenvalidierung**: 
+  - Sicherstellen, dass alle Benutzereingaben validiert werden, um Sicherheitsrisiken wie SQL-Injection zu vermeiden.
+
+### 5. **Testing**
+- **Teststrategien**:
+  - Durchführung von Unit-Tests und Integrationstests für Backend-Logik und Datenbankoperationen.
+  
+### 6. **Deployment**
+- **Hosting-Plattform**:
+  - Auswahl einer geeigneten Hosting-Plattform für die Bereitstellung der Web-App (z.B. Heroku, AWS).
+
+### 7. **Dokumentation**
+- **Technische Dokumentation**:
+  - Erstellung einer umfassenden technischen Dokumentation für die API und die Datenbankstruktur.
+
+Diese technischen Anforderungen bilden die Grundlage für die Entwicklung der Cabrinator-App und gewährleisten, dass die Anwendung sowohl funktional als auch sicher ist.
