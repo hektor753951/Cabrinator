@@ -1,0 +1,23 @@
+## Kernfunktionalitäten
+
+- **Entscheidungsbaum-Navigation**: Das System soll einen interaktiven Entscheidungsbaum zur Diagnose von Problemen bereitstellen[1].
+- **Datenbankabfragen**: Die Anwendung muss in der Lage sein, relevante Informationen aus der SQLite-Datenbank abzurufen und anzuzeigen[1].
+- **Benutzerauthentifizierung**: Implementierung eines sicheren Login-Systems für autorisierte Techniker[1].
+
+## Diagnose und Problemlösung
+
+- **Fehlerdiagnose**: Fähigkeit, basierend auf Benutzereingaben spezifische Probleme zu identifizieren[2].
+- **Lösungsvorschläge**: Bereitstellung von detaillierten Schritt-für-Schritt-Anweisungen zur Problembehebung[2].
+- **Dokumentation**: Möglichkeit für Techniker, durchgeführte Reparaturen und Wartungsarbeiten zu dokumentieren[2].
+
+## Benutzerinteraktion
+
+- **Eingabevalidierung**: Das System sollte Datenvalidierungsregeln durchsetzen, um genaue und konsistente Informationen sicherzustellen[1].
+- **Feedback-Mechanismus**: Implementierung einer Funktion, die es Benutzern ermöglicht, Feedback zur Nützlichkeit der vorgeschlagenen Lösungen zu geben[1].
+
+## Datenmanagement
+
+- **Log-Erfassung**: Automatische Aufzeichnung aller Benutzerinteraktionen und Diagnoseabläufe[1].
+- **Datenexport**: Funktion zum Exportieren von Log-Daten für weitere Analysen[1].
+
+Diese funktionalen Anforderungen sollten klar, messbar und überprüfbar sein, um eine effektive Entwicklung und Qualitätssicherung zu ermöglichen[4].
